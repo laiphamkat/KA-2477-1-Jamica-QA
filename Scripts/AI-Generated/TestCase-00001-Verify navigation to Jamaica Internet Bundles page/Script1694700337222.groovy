@@ -1,5 +1,5 @@
-import internal.GlobalVariable as GlobalVariable
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import internal.GlobalVariable as GlobalVariable
 
 'Initialize test session: Open browser and set view port'
 
@@ -15,7 +15,7 @@ WebUI.navigateToUrl(GlobalVariable.application_domain + '/jamaica/internet-bundl
 
 'step 2: Add visual checkpoint at Page_jamaica_internet-bundles'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00001-Verify Navigation to Jamaica Internet Bundles Page_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00001-Verify navigation to Jamaica Internet Bundles page_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
