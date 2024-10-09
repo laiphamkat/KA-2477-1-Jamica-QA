@@ -1,0 +1,25 @@
+{
+    "steps": [
+        "step 1: Navigate to /",
+        "step 2: Login -> Navigate to page '/inventory.html'",
+        "step 3: Click on button OpenMenu",
+        "step 4: Click on link AllItems",
+        "step 5: Click on link About",
+        "step 6: Click on select object",
+        "step 7: Click on link SauceLabsFleeceJacket -> Navigate to page '/inventory-item.html'",
+        "step 8: Click on button AddToCart",
+        "step 9: Click on button BackToProducts -> Navigate to page '/inventory.html'",
+        "step 10: Click on link SauceLabsBoltTShirt -> Navigate to page '/inventory-item.html'",
+        "step 11: Click on button AddToCart",
+        "step 12: Click on button BackToProducts -> Navigate to page '/inventory.html'",
+        "step 13: Click on button AddToCart3",
+        "step 14: Click on select object",
+        "step 15: Click on link object -> Navigate to page '/cart.html'",
+        "step 16: Click on button Remove",
+        "step 17: Click on button Remove2",
+        "step 18: Fill out checkout form with personal and postal details",
+        "step 19: Click on button Finish -> Navigate to page '/checkout-complete.html'",
+        "step 20: Click on button BackHome -> Navigate to page ''",
+        "step 21: Take full page screenshot as checkpoint"
+    ]
+}
